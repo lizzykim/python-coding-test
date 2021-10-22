@@ -12,3 +12,4 @@ for i in range(n):
   #result가 반복되는 것을 확인할것!
 
 print(result)
+print("변경")
